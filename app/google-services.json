@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688641031014",
+    "firebase_url": "https://carcatalogue-59ad0.firebaseio.com",
+    "project_id": "carcatalogue-59ad0",
+    "storage_bucket": "carcatalogue-59ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688641031014:android:37342d3e311efb048d26a7",
+        "android_client_info": {
+          "package_name": "com.ex07.carinformationcatalogproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688641031014-bgp94v25blv5193329563proorsk47o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD0_R9Cq27Tnj7qLJLSuDuRs4UZ60HBvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688641031014-bgp94v25blv5193329563proorsk47o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
